@@ -9,3 +9,4 @@ This is a repository to a quick start in automated tests in NodeJs using jest.
 - NodeJs LTS (v12.16.1)
 - VSCode
 - Npm or Yarn
+- Express
