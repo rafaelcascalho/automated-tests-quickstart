@@ -1,0 +1,10 @@
+{
+  "name": "automated-tests-quickstart",
+  "version": "1.0.0",
+  "description": "Introduction to automated tests in nodejs with jest.",
+  "main": "server.js",
+  "repository": "git@github.com:rafaelcascalho/automated-tests-quickstart.git",
+  "author": "Rafael Cascalho",
+  "license": "MIT",
+  "private": false
+}
